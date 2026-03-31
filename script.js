@@ -14,6 +14,7 @@
 
 
 
+
 let display = document.getElementById('display');
 
 function appendToDisplay(value) {
